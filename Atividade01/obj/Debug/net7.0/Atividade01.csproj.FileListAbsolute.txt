@@ -1,0 +1,12 @@
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/bin/Debug/net7.0/Atividade01.deps.json
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/bin/Debug/net7.0/Atividade01.dll
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/bin/Debug/net7.0/Atividade01.pdb
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.csproj.AssemblyReference.cache
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.GeneratedMSBuildEditorConfig.editorconfig
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.AssemblyInfoInputs.cache
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.AssemblyInfo.cs
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.csproj.CoreCompileInputs.cache
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.dll
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/refint/Atividade01.dll
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/Atividade01.pdb
+/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01/obj/Debug/net7.0/ref/Atividade01.dll

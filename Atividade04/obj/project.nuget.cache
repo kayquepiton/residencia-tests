@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J0RAx6cA5Yxnz7YrwJoW4aB/0npYZmyYHdo7iyqo+j6fKJdGpeAMDTmWbQizJs57C3Yn/KZrQamlfZ1SJmpLsQ==",
+  "success": true,
+  "projectFilePath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade04/Atividade04.csproj",
+  "expectedPackageFiles": [
+    "/home/kayque-almeida-piton/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/home/kayque-almeida-piton/.nuget/packages/nsubstitute/5.1.0/nsubstitute.5.1.0.nupkg.sha512",
+    "/home/kayque-almeida-piton/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
