@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2zdJdw0ip/Gai7xpHRtHORyCsmpjbkB7v20isneJF9b3cTcpsEyYpTWQZy7LDm3i95wnyL8LLXQNWHaA6Jg99A==",
+  "success": true,
+  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade15/Atividade15.csproj",
+  "expectedPackageFiles": [
+    "/home/kayque-almeida-piton/.nuget/packages/awssdk.core/3.7.304.6/awssdk.core.3.7.304.6.nupkg.sha512",
+    "/home/kayque-almeida-piton/.nuget/packages/awssdk.rekognition/3.7.302.23/awssdk.rekognition.3.7.302.23.nupkg.sha512"
+  ],
+  "logs": []
+}
