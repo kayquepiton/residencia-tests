@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8z7u98HuK2qhjWAfvQM2dMjlccc4gxWSUEQEN+ZR2gl142/YP034GtHwDif8Vf4DElvbxqZbKgDjL47ArKzlMg==",
+  "dgSpecHash": "WA9IRLOs9DsTI/wPmzuAgkR11CGwpkBw7HOv6nR3q75mRMBtPwnGPe4ucGhIOAP/pXF/QSMhUCsy2PNJXAOf8A==",
   "success": true,
-  "projectFilePath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade01.Tests/Atividade01.Tests.csproj",
+  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade01.Tests/Atividade01.Tests.csproj",
   "expectedPackageFiles": [
     "/home/kayque-almeida-piton/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/home/kayque-almeida-piton/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",

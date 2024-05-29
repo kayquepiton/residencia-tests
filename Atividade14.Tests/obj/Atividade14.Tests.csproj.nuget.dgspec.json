@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kayque-almeida-piton/residencia-tests/Atividade14.Tests/Atividade14.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/kayque-almeida-piton/residencia-tests/Atividade14.Tests/Atividade14.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade14.Tests/Atividade14.Tests.csproj",
+        "projectName": "Atividade14.Tests",
+        "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade14.Tests/Atividade14.Tests.csproj",
+        "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
+        "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade14.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/home/kayque-almeida-piton/residencia-tests/Atividade14/Atividade14.csproj": {
+                "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade14/Atividade14.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.10.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.8.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kayque-almeida-piton/residencia-tests/Atividade14/Atividade14.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade14/Atividade14.csproj",
+        "projectName": "Atividade14",
+        "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade14/Atividade14.csproj",
+        "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
+        "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade14/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

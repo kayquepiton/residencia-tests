@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade09/Atividade09.csproj",
+      "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade09/Atividade09.csproj",
       "projectName": "Atividade09",
-      "projectPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade09/Atividade09.csproj",
+      "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade09/Atividade09.csproj",
       "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
-      "outputPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade09/obj/",
+      "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade09/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"

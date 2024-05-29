@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/B/z4MEi/QRPI9v/lo0Iv5zDW0ol2Llb2o/gZwE5LFqnZleE7ER6ZIKPZhqZJkxIG0chD9aF8tjagH6TYmnDSg==",
+  "dgSpecHash": "//y1xLvstHPIxbNWjLJSKI+o397E/73CaO58I+YBx2oGEHV3zVvZcUDUwFHVLVhceNuvrbBWgyYTxMMC9+rDVw==",
   "success": true,
-  "projectFilePath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade08/Atividade08.csproj",
+  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade08/Atividade08.csproj",
   "expectedPackageFiles": [
     "/home/kayque-almeida-piton/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/home/kayque-almeida-piton/.nuget/packages/nsubstitute/5.1.0/nsubstitute.5.1.0.nupkg.sha512",

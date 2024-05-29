@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fIx+y/SPGEkP+WaxmDB7BEcmr/wcV0f0RmN5VMKLG7meOXXgR7ONsDyT9Z8hvEDU5SqHL3DSXiZS9dtK6CboNw==",
+  "dgSpecHash": "oddxfy1Wx/SGXOktDlIYEIQ1rTaz05baC6VRt1Kw3KuF9wK5evNuYXylMFOwV1RMqe6BZD7G+SaCPCGE/qWTYg==",
   "success": true,
-  "projectFilePath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade09/Atividade09.csproj",
+  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade09/Atividade09.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

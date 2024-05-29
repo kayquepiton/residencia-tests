@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03.Tests/Atividade03.Tests.csproj": {}
+    "/home/kayque-almeida-piton/residencia-tests/Atividade03.Tests/Atividade03.Tests.csproj": {}
   },
   "projects": {
-    "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03.Tests/Atividade03.Tests.csproj": {
+    "/home/kayque-almeida-piton/residencia-tests/Atividade03.Tests/Atividade03.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03.Tests/Atividade03.Tests.csproj",
+        "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade03.Tests/Atividade03.Tests.csproj",
         "projectName": "Atividade03.Tests",
-        "projectPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03.Tests/Atividade03.Tests.csproj",
+        "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade03.Tests/Atividade03.Tests.csproj",
         "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
-        "outputPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03.Tests/obj/",
+        "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade03.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03/Atividade03.csproj": {
-                "projectPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03/Atividade03.csproj"
+              "/home/kayque-almeida-piton/residencia-tests/Atividade03/Atividade03.csproj": {
+                "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade03/Atividade03.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03/Atividade03.csproj": {
+    "/home/kayque-almeida-piton/residencia-tests/Atividade03/Atividade03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03/Atividade03.csproj",
+        "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade03/Atividade03.csproj",
         "projectName": "Atividade03",
-        "projectPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03/Atividade03.csproj",
+        "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade03/Atividade03.csproj",
         "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
-        "outputPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade03/obj/",
+        "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade03/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"

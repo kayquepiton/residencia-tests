@@ -148,11 +148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade07/Atividade07.csproj",
+      "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade07/Atividade07.csproj",
       "projectName": "Atividade07",
-      "projectPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade07/Atividade07.csproj",
+      "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade07/Atividade07.csproj",
       "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
-      "outputPath": "/home/kayque-almeida-piton/UnitTestingActivitiesCSharp/Atividade07/obj/",
+      "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade07/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"
