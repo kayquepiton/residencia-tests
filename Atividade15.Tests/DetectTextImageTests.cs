@@ -1,11 +1,6 @@
 using Amazon.Rekognition;
 using Amazon.Rekognition.Model;
 using Moq;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Threading.Tasks;
-using Xunit;
 
 namespace Atividade15.Tests
 {
