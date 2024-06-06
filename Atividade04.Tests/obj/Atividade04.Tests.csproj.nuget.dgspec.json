@@ -1,33 +1,40 @@
 {
   "format": 1,
   "restore": {
-    "/home/kayque-almeida-piton/residencia-tests/Atividade04.Tests/Atividade04.Tests.csproj": {}
+    "C:\\Users\\kayqu\\residencia-tests\\Atividade04.Tests\\Atividade04.Tests.csproj": {}
   },
   "projects": {
-    "/home/kayque-almeida-piton/residencia-tests/Atividade04.Tests/Atividade04.Tests.csproj": {
+    "C:\\Users\\kayqu\\residencia-tests\\Atividade04.Tests\\Atividade04.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade04.Tests/Atividade04.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\kayqu\\residencia-tests\\Atividade04.Tests\\Atividade04.Tests.csproj",
         "projectName": "Atividade04.Tests",
-        "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade04.Tests/Atividade04.Tests.csproj",
-        "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
-        "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade04.Tests/obj/",
+        "projectPath": "C:\\Users\\kayqu\\residencia-tests\\Atividade04.Tests\\Atividade04.Tests.csproj",
+        "packagesPath": "C:\\Users\\kayqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kayqu\\residencia-tests\\Atividade04.Tests\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kayqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/home/kayque-almeida-piton/residencia-tests/Atividade04/Atividade04.csproj": {
-                "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade04/Atividade04.csproj"
+              "C:\\Users\\kayqu\\residencia-tests\\Atividade04\\Atividade04.csproj": {
+                "projectPath": "C:\\Users\\kayqu\\residencia-tests\\Atividade04\\Atividade04.csproj"
               }
             }
           }
@@ -36,6 +43,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -74,31 +86,52 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/kayque-almeida-piton/residencia-tests/Atividade04/Atividade04.csproj": {
+    "C:\\Users\\kayqu\\residencia-tests\\Atividade04\\Atividade04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/kayque-almeida-piton/residencia-tests/Atividade04/Atividade04.csproj",
+        "projectUniqueName": "C:\\Users\\kayqu\\residencia-tests\\Atividade04\\Atividade04.csproj",
         "projectName": "Atividade04",
-        "projectPath": "/home/kayque-almeida-piton/residencia-tests/Atividade04/Atividade04.csproj",
-        "packagesPath": "/home/kayque-almeida-piton/.nuget/packages/",
-        "outputPath": "/home/kayque-almeida-piton/residencia-tests/Atividade04/obj/",
+        "projectPath": "C:\\Users\\kayqu\\residencia-tests\\Atividade04\\Atividade04.csproj",
+        "packagesPath": "C:\\Users\\kayqu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kayqu\\residencia-tests\\Atividade04\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/home/kayque-almeida-piton/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\kayqu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -111,6 +144,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -133,12 +171,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.18, 7.0.18]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

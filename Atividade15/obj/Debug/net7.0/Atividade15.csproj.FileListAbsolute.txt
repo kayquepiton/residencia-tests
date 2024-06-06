@@ -1,0 +1,15 @@
+C:\Users\kayqu\residencia-tests\Atividade15\bin\Debug\net7.0\data\detected_text_results.txt
+C:\Users\kayqu\residencia-tests\Atividade15\bin\Debug\net7.0\data\img-example-for-aws-task.jpg
+C:\Users\kayqu\residencia-tests\Atividade15\bin\Debug\net7.0\Atividade15.deps.json
+C:\Users\kayqu\residencia-tests\Atividade15\bin\Debug\net7.0\Atividade15.dll
+C:\Users\kayqu\residencia-tests\Atividade15\bin\Debug\net7.0\Atividade15.pdb
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.csproj.AssemblyReference.cache
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.AssemblyInfoInputs.cache
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.AssemblyInfo.cs
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.csproj.CoreCompileInputs.cache
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.sourcelink.json
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.dll
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\refint\Atividade15.dll
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\Atividade15.pdb
+C:\Users\kayqu\residencia-tests\Atividade15\obj\Debug\net7.0\ref\Atividade15.dll

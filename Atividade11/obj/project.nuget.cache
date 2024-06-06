@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "w3AN0L1nxqryBhj0opjPidAQBhAcsfM1RQoxZM36+FxGDQlEzFKEOcoDf4OGM8bx5Lh67EWz0F2nhFo3Y8fULQ==",
+  "dgSpecHash": "g6W1moHOrNL/rSTLIyi/XgfiB4nbIY85mvPArYXuBqsnUWSDTdiBy+StVllC+4sK9pjhFWSPuFPzJFUnhEQZ2A==",
   "success": true,
-  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade11/Atividade11.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kayqu\\residencia-tests\\Atividade11\\Atividade11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
   "logs": []
 }

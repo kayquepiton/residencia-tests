@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "2zdJdw0ip/Gai7xpHRtHORyCsmpjbkB7v20isneJF9b3cTcpsEyYpTWQZy7LDm3i95wnyL8LLXQNWHaA6Jg99A==",
+  "dgSpecHash": "0kQiN4fQ+lX2vhAwZNmlbnVP3NOvJh6Txk+kC73Dpz9d71Sa2qBE9uqeXhp0dSgpgbFhW7Mmcd1QQwE26tEz5g==",
   "success": true,
-  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade15/Atividade15.csproj",
+  "projectFilePath": "C:\\Users\\kayqu\\residencia-tests\\Atividade15\\Atividade15.csproj",
   "expectedPackageFiles": [
-    "/home/kayque-almeida-piton/.nuget/packages/awssdk.core/3.7.304.6/awssdk.core.3.7.304.6.nupkg.sha512",
-    "/home/kayque-almeida-piton/.nuget/packages/awssdk.rekognition/3.7.302.23/awssdk.rekognition.3.7.302.23.nupkg.sha512"
+    "C:\\Users\\kayqu\\.nuget\\packages\\awssdk.core\\3.7.304.6\\awssdk.core.3.7.304.6.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\awssdk.rekognition\\3.7.302.23\\awssdk.rekognition.3.7.302.23.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }

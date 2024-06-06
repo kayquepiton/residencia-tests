@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "IuUEmjnzCxVe7AsbeI37BkS5c/i8wbQDJcoa1MdlF21WlDhG0tGkDEK64AJvxvX8NVHlYAsuCIE/fEm1dUVy3Q==",
+  "dgSpecHash": "A+n+uo99FfjhQt2SQmK8Va/FVyc4vqmuOUe7vsLEKZL0Godr6ev77GiZlGTWCI/WVrJ3JnW6b0wfdBsyvhCS8w==",
   "success": true,
-  "projectFilePath": "/home/kayque-almeida-piton/residencia-tests/Atividade07/Atividade07.csproj",
+  "projectFilePath": "C:\\Users\\kayqu\\residencia-tests\\Atividade07\\Atividade07.csproj",
   "expectedPackageFiles": [
-    "/home/kayque-almeida-piton/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
-    "/home/kayque-almeida-piton/.nuget/packages/nsubstitute/5.1.0/nsubstitute.5.1.0.nupkg.sha512",
-    "/home/kayque-almeida-piton/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+    "C:\\Users\\kayqu\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\nsubstitute\\5.1.0\\nsubstitute.5.1.0.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\kayqu\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }
